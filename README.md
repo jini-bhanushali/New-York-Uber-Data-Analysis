@@ -1,5 +1,5 @@
 # New-York-Uber-Data-Analysis
-### In depth analysis is performed on the data.
+### In depth analysis on the data is performed.
 The data set consists of the information of ubers in the New York city.
 Analysis of journey by weekday, hour, peak months and time is inferred, rush and other parameters are analysed.
 ![uber2](https://user-images.githubusercontent.com/58543237/145616899-5f6adb61-774b-46e8-906a-b5b5e9aa0087.JPG)
